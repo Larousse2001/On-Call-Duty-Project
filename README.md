@@ -6,7 +6,7 @@
 [![Power Virtual Agents](https://img.shields.io/badge/Power%20Virtual%20Agents-Bot-red)](https://powervirtualagents.microsoft.com/)
 [![SharePoint](https://img.shields.io/badge/SharePoint-Integration-yellow)](https://sharepoint.com/)
 
-This project focuses on developing a comprehensive solution for managing on-call duty schedules and providing advanced support through the Power Platform. The solution includes Power Apps, Power Automate, Power BI, Power Virtual Agents, and SharePoint integration. The project aims to streamline scheduling, incident management, reporting, and collaboration within support teams.
+This project, which is my end of third year study project, focuses on developing a comprehensive solution for managing on-call duty schedules and providing advanced support through the Power Platform. The solution includes Power Apps, Power Automate, Power BI, Power Virtual Agents, and SharePoint integration. The project aims to streamline scheduling, incident management, reporting, and collaboration within support teams.
 
 ## Features
 
